@@ -1,0 +1,21 @@
+# Firmware images and large files
+firmware/*.img
+firmware/*.bin
+firmware/*.7z
+firmware/*.zip
+firmware/*.xz
+firmware/*.rar
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# Logs
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
