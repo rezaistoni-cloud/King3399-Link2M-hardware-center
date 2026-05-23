@@ -202,6 +202,7 @@ The Link2M web dashboard provides a browser-based hardware monitoring center for
 <img width="2900" height="1617" alt="image" src="https://github.com/user-attachments/assets/d29bc452-3a66-4496-9084-bc1efe34bd4a" />
 
 <br>
+<br>
 
 Current dashboard functions include:
 
