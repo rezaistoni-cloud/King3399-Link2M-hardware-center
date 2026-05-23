@@ -67,7 +67,8 @@ Found One LOADER Device
 ```
 
 For the tested KING3399 board, the **loader** and the **image** must be selected together during flashing.
-
+<br>
+<br>
 <img width="1280" height="645" alt="6091264654215680041" src="https://github.com/user-attachments/assets/2b3002b3-9180-4f99-9b69-40287e061448" />
 
 <br>
