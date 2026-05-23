@@ -35,7 +35,7 @@ This repository is **not only an installation script repository**. The scripts a
 Ubuntu Noble / Armbian images for RK3399-based devices can be obtained from the Ophub project:
 
 ```text
-https://github.com/ophub
+https://github.com/ophub/amlogic-s9xxx-armbian/releases/download/Armbian_noble_arm64_server_2026.05/Armbian_26.05.0_rockchip_king3399_noble_6.12.89_server_2026.05.15.img.gz
 ```
 
 ### RKDevTool / Rockchip Flash Tools
