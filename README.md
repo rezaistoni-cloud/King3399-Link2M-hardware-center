@@ -196,7 +196,9 @@ This prevents rapid fan ON/OFF switching and keeps the RK3399 temperature stable
 ## Link2M Web Dashboard
 
 The Link2M web dashboard provides a browser-based hardware monitoring center for KING3399 / RK3399 gateway boards.
-
+<br>
+<img width="2900" height="1617" alt="image" src="https://github.com/user-attachments/assets/d29bc452-3a66-4496-9084-bc1efe34bd4a" />
+<br>
 Current dashboard functions include:
 
 - Temperature monitoring.
